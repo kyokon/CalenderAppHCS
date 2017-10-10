@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalenderApp", "Assembly-CSharp-firstpass.csproj", "{FD6E62BC-BBFE-967E-6ECE-44E31084B8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalenderApp", "Assembly-CSharp.csproj", "{AAA23A6B-03B9-F7EC-61CA-7A9FD010C0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalenderApp", "Assembly-CSharp-Editor.csproj", "{501D2C1C-BD91-9BD5-D286-162FD8273A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6E62BC-BBFE-967E-6ECE-44E31084B8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6E62BC-BBFE-967E-6ECE-44E31084B8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6E62BC-BBFE-967E-6ECE-44E31084B8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6E62BC-BBFE-967E-6ECE-44E31084B8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA23A6B-03B9-F7EC-61CA-7A9FD010C0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA23A6B-03B9-F7EC-61CA-7A9FD010C0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA23A6B-03B9-F7EC-61CA-7A9FD010C0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA23A6B-03B9-F7EC-61CA-7A9FD010C0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501D2C1C-BD91-9BD5-D286-162FD8273A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501D2C1C-BD91-9BD5-D286-162FD8273A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501D2C1C-BD91-9BD5-D286-162FD8273A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501D2C1C-BD91-9BD5-D286-162FD8273A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
